@@ -88,5 +88,4 @@ In this example, the VirtualDom class is used to render a virtual DOM structure 
 
 Feel free to customize the virtual DOM structure according to your needs.
 
-<<<<<<< 
 That's it! You can now leverage the power of virtual DOM with the VirtualDom class in your projects.
