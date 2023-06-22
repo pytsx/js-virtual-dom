@@ -1,0 +1,2 @@
+# js-virtual-dom
+ A simple study of DOM virtualization using a class called VirtualDom. It allows creating and rendering a virtual DOM based on provided data. The class handles the creation of DOM nodes with optional classes, tags, text, and attributes. It recursively renders the virtual DOM structure by appending nodes to their parent nodes. Additionally, it provides a method to retrieve a DOM node by its ID.
